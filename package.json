@@ -1,0 +1,25 @@
+{
+  "name": "prestashop-bo-themes",
+  "version": "1.0.0",
+  "description": "Package of different PrestaShop back-office themes available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/PrestaShop/Prestashop-BO-themes-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//PrestaShop/Prestashop-BO-themes-package.git"
+  },
+  "keywords": [
+    "themes",
+    "css",
+    "js",
+    "PrestaShop",
+    "BO"
+  ],
+  "author": "PrestaShop",
+  "license": "MIT"
+}
