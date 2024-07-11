@@ -7,7 +7,7 @@ PrestaShop BO Themes is an NPM package designed to facilitate the use of PrestaS
 To install the package, run the following command:
 
 ```sh
-npm install prestashop-bo-themes
+npm install PrestaShop/Prestashop-BO-themes-package
 ```
 
 ## Import for Each Version
