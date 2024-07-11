@@ -10,13 +10,9 @@
     "url": "https://github.com/PrestaShop/Prestashop-BO-themes-package/issues"
   },
   "files": [
-    "1.7.3.0/default/theme.css",
-    "1.7.3.0/default/bundle.js",
-    "1.7.3.0/new-theme/theme.css",
-    "1.7.3.0/new-theme/bundle.js",
-    "1.7.3.0/new-theme/main.bundle.js",
-    "1.7.3.0/new-theme/stock.bundle.js",
-    "1.7.3.0/new-theme/translations.bundle.js"
+    "1.7.3.0",
+    "1.7.8.0",
+    "9.0.0"
   ],
   "repository": {
     "type": "git",

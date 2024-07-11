@@ -19,7 +19,7 @@ npm install prestashop-bo-themes
 ```
 ```js
 // js files
-import 'prestashop-bo-themes/1.7.3.0/default/bundle.js'
+import 'prestashop-bo-themes/1.7.3.0/default/theme.js'
 ```
 
 #### new-theme
@@ -29,10 +29,7 @@ import 'prestashop-bo-themes/1.7.3.0/default/bundle.js'
 ```
 ```js
 // js files
-import 'prestashop-bo-themes/1.7.3.0/new-theme/bundle.js'
-import 'prestashop-bo-themes/1.7.3.0/new-theme/main.bundle.js'
-import 'prestashop-bo-themes/1.7.3.0/new-theme/stock.bundle.js'
-import 'prestashop-bo-themes/1.7.3.0/new-theme/translations.bundle.js'
+import 'prestashop-bo-themes/1.7.3.0/new-theme/theme.js'
 ```
 
 ### V 1.7.8.0
