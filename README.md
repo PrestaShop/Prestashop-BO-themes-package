@@ -33,7 +33,25 @@ import 'prestashop-bo-themes/1.7.3.0/new-theme/theme.js'
 ```
 
 ### V 1.7.8.0
-WORK IN PROGRESS
+#### default
+```css
+/* css files */
+@import 'prestashop-bo-themes/1.7.8.0/default/theme.css';
+```
+```js
+// js files
+import 'prestashop-bo-themes/1.7.8.0/default/theme.js'
+```
+
+#### new-theme
+```css
+/* css files */
+@import 'prestashop-bo-themes/1.7.8.0/new-theme/theme.css';
+```
+```js
+// js files
+import 'prestashop-bo-themes/1.7.8.0/new-theme/theme.js'
+```
 
 ### V 9.0.0
 WORK IN PROGRESS
