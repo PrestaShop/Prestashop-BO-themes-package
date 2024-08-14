@@ -4,6 +4,9 @@
   "description": "Package of different PrestaShop back-office themes available",
   "main": "index.js",
   "scripts": {
+    "serve-v1.7.3": "http-server ./1.7.3.0 -p 1000 --cors",
+    "serve-v1.7.8": "http-server ./1.7.8.0 -p 1000 --cors",
+    "serve-v9": "http-server ./9.0.0 -p 1000 --cors",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bugs": {
@@ -27,5 +30,8 @@
     "BO"
   ],
   "author": "PrestaShop",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
 }
