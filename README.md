@@ -54,7 +54,25 @@ import 'prestashop-bo-themes/1.7.8.0/new-theme/theme.js'
 ```
 
 ### V 9.0.0
-WORK IN PROGRESS
+#### default
+```css
+/* css files */
+@import 'prestashop-bo-themes/9.0.0/default/theme.css';
+```
+```js
+// js files
+import 'prestashop-bo-themes/9.0.0/default/theme.js'
+```
+
+#### new-theme
+```css
+/* css files */
+@import 'prestashop-bo-themes/9.0.0/new-theme/theme.css';
+```
+```js
+// js files
+import 'prestashop-bo-themes/9.0.0/new-theme/theme.js'
+```
 
 ## Contributing
 > [!WARNING]
